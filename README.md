@@ -8,10 +8,14 @@ layout.
 ● Sort by collegedunia rating, fees, user review rating , ascending and descending order
 ● Search by college name.
 ● Infinite Scroll
-# To run - 
 
-1.  Installing the neccessary modules using
-    # npm i
+# To execute the project -
 
-2.  To run the project
-    # npm run dev
+1. Install the required modules:
+   # npm i
+
+2. Run the project:
+   # npm run dev
+
+   Deployment Link:
+Access the deployed project here: Vercel Deployment
